@@ -12,7 +12,7 @@
     <PackageId>Drastic.Wires</PackageId>
     <Company>Drastic Actions</Company>
     <Copyright>Copyright (C) Drastic Actions</Copyright>
-    <Version>0.5.7</Version>
+    <Version>0.8.1</Version>
     <Authors>$(Company)</Authors>
     <PackageTags>wires mvvm binding ios android</PackageTags>
     <PackageProjectUrl>https://github.com/drasticactions/Drastic.Wires</PackageProjectUrl>
