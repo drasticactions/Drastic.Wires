@@ -40,7 +40,7 @@ namespace Wires.Tests
 
 		#endregion
 
-		[TestFixtureSetUp]
+		[OneTimeSetUp]
 		public void Setup() => Bindings.Reset();
 
 		[Test()]
